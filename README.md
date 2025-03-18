@@ -5,3 +5,6 @@ Random API created using fastapi and python.
 - We need to have a hugging face account
 - We need to request for the token (with read access)
 
+Execute locally this command:
+```python -m uvicorn main:app --reload```
+
